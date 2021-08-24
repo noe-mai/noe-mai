@@ -1,10 +1,7 @@
-Hi, I'm Noe 
-👩🏻‍💻
-Css💜
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1> Hi 👋, I'm Noe </h1>
+<h3>Front-end dev in progress 👩🏻‍💻 </h3>
+
+
 
 <!---
 noe-mai/noe-mai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
